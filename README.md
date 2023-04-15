@@ -1,2 +1,2 @@
-# Practica 1
+# Practicas
 Acosta Victoria 08378/0
